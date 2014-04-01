@@ -6,7 +6,7 @@ import sys
 import glob
 class batxls2csv:
     def __init__(self):
-                pass
+        pass
     def savecsv1(self,arg):
         matrixgolb = []
         for sheet_name, values in parse_xls(arg, 'cp1251'): # parse_xls(arg) -- default encoding
@@ -31,8 +31,8 @@ class batxls2csv:
                 
                 matrix[-1].extend([v])
             for row in matrix:
-                 csv_row = ','.join(row)
-                 matrixgolb.append(csv_row)
+                csv_row = ','.join(row)
+                matrixgolb.append(csv_row)
         return matrixgolb        
         print  matrixgolb
     def savecsv2(self):
@@ -48,7 +48,7 @@ class batxls2csv:
                 #print item
             file_object.close( )
         print 'ok!'
-            
+
 if __name__ == "__main__":
     test=batxls2csv()
     test.savecsv2()

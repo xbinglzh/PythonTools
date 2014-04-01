@@ -79,7 +79,7 @@ def main(argv):
     out = open(out_file, 'w')
     
     out.write(
-              """package com.droidhen.game.fa;
+        """package com.droidhen.game.fa;
 
                  public class DefaultTextures {
                         public static final String[] value = new String[] {""")
@@ -88,7 +88,7 @@ def main(argv):
     scanDir(assets_dir, False)
     
     out.write(
-              """};
+        """};
                     }""")
 
 

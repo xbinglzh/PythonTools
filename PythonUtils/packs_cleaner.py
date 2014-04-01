@@ -3,8 +3,6 @@
 '''
 Created on 2012-12-14
 
-@author: jk
-
 读取packer的json输出，并删除已经被拼接过的文件
 '''
 
@@ -40,6 +38,6 @@ def main(argv):
     pics_dir = args.dir
     
     readJson(json_file, pics_dir)
-    
+
 if __name__ == "__main__":
     main(sys.argv[1:])
