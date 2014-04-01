@@ -53,6 +53,7 @@ class Rect():
     '''
         使用property映射函数到参数
     '''
+
     def get_width(self):
         return self.x1 - self.x0
     width = property(fget=get_width)
@@ -119,7 +120,7 @@ def splice_images(collect_images, map_width, map_height):
     print "需要拼合的图片：" + str(collect_images)
     
     for image_info in collect_images:
-        image = Image.open(image_info["image"]);
+        image = Image.open(image_info["image"])
         
         ltx = image_info["x"]
         lty = image_info["y"]
@@ -139,10 +140,10 @@ def splice_images(collect_images, map_width, map_height):
     print "拼合图片的左上点: " + str(lt)
     print "拼合图片的右下点: " + str(rb)
             
-    collect_image = Image.new("RGBA", (rb.x - lt.x, rb.y - lt.y));
+    collect_image = Image.new("RGBA", (rb.x - lt.x, rb.y - lt.y))
     
     for image_info in collect_images:
-        image = Image.open(image_info["image"]).convert("RGBA");
+        image = Image.open(image_info["image"]).convert("RGBA")
         
         ltx = image_info["x"] - lt.x
         lty = image_info["y"] - lt.y

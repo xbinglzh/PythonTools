@@ -27,6 +27,7 @@ def get_collect_bits(img, size, min_alpha=1):
     
     # 使用一个bool array保存光栅测试结果
     coll_bits = []
+
     for i in range(0, height, size):
         x_bits = semi_transparent_indices[i : i + size]
         
@@ -64,7 +65,7 @@ def get_collect_bits(img, size, min_alpha=1):
     return values
 
 def write_collect_bits(output_file, image, size = 4):
-    
+
     values = get_collect_bits(image, size, 1)
 
     # 写入扫描的间隔
@@ -104,7 +105,7 @@ def export_collect_bits(image_path):
         data = struct.pack('>I', v)
         out_file.Write(data)
     
-def main(argv):    
+def main(argv):
     parser = argparse.ArgumentParser(description="scan pictures, get bit information")
     parser.add_argument('-i', '--input', help='input image', dest="input", default=".")
     
