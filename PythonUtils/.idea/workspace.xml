@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c18fb20e-5491-4e82-a160-b27e742560d8" name="Default" comment="" />
+    <list default="true" readonly="true" id="c18fb20e-5491-4e82-a160-b27e742560d8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/AndroidMkTool/AndroidMkUtil.py" afterPath="$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/AndroidMkTool/AndroidMkUtil.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/PythonUtils.iml" afterPath="$PROJECT_DIR$/.idea/PythonUtils.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/TexturePackerTool/ScanPngPacker.py" afterPath="$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/TexturePackerTool/ScanPngPacker.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/Rc4Tool/ScanResourse.py" afterPath="$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/Rc4Tool/ScanResourse.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Scan_Anim/Scan_Animation_Zip.py" afterPath="$PROJECT_DIR$/../Scan_Anim/Scan_Animation_Zip.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/AnimationTool/Scan_Animation_Zip.py" afterPath="$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/AnimationTool/Scan_Animation_Zip.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="PythonUtils.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,6 +22,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PythonUtils$apptest.coverage" NAME="apptest Coverage Results" MODIFIED="1399784409913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../firefly/paokuServer/app" />
+    <SUITE FILE_PATH="coverage/PythonUtils$DeleteSvn.coverage" NAME="DeleteSvn Coverage Results" MODIFIED="1405270543700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../DeleteSvnInfo" />
+    <SUITE FILE_PATH="coverage/PythonUtils$startmaster.coverage" NAME="startmaster Coverage Results" MODIFIED="1399991757176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg" />
+    <SUITE FILE_PATH="coverage/PythonUtils$clienttest.coverage" NAME="clienttest Coverage Results" MODIFIED="1399912858500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/tool" />
+    <SUITE FILE_PATH="coverage/PythonUtils$ScanResourse.coverage" NAME="ScanResourse Coverage Results" MODIFIED="1404528841789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/Rc4Tool" />
+    <SUITE FILE_PATH="coverage/PythonUtils$AndroidMkUtil.coverage" NAME="AndroidMkUtil Coverage Results" MODIFIED="1404916261271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/AndroidMkTool" />
+    <SUITE FILE_PATH="coverage/PythonUtils$ScanPngPacker.coverage" NAME="ScanPngPacker Coverage Results" MODIFIED="1404913236726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/TexturePackerTool" />
+    <SUITE FILE_PATH="coverage/PythonUtils$startmaster__1_.coverage" NAME="startmaster (1) Coverage Results" MODIFIED="1399789350781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../GameServer/server/fengyanOL - v1.7.0/sanguo - v1.70" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -23,102 +44,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FileWriter.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FileWriter.py">
+      <file leaf-file-name="DeleteSvn.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../DeleteSvnInfo/DeleteSvn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1530">
+            <state line="38" column="34" selection-start="820" selection-end="820" vertical-scroll-proportion="0.37634408" vertical-offset="465" max-vertical-offset="960">
               <folding>
-                <element signature="e#33#46#0" expanded="true" />
+                <element signature="e#39#48#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="flash_rename.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flash_rename.py">
+      <file leaf-file-name="Scan_Animation_Zip.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Scan_Anim/Scan_Animation_Zip.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="21" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1230">
+            <state line="58" column="31" selection-start="1794" selection-end="1801" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="2505">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mtest.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mtest.py">
+      <file leaf-file-name="ScanResourse.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../rc4Tool/ScanResourse.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="11" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="885">
+            <state line="93" column="62" selection-start="2345" selection-end="3159" vertical-scroll-proportion="0.0" vertical-offset="516" max-vertical-offset="1125">
               <folding>
-                <element signature="e#38#65#0" expanded="true" />
+                <element signature="e#39#48#0" expanded="true" />
+                <element signature="e#187#1510#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="packs_cleaner.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/packs_cleaner.py">
+      <file leaf-file-name="ScanPngPacker.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/TexturePackerTool/ScanPngPacker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="750">
-              <folding>
-                <element signature="e#90#105#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rename_directory.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rename_directory.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1230">
+            <state line="27" column="0" selection-start="924" selection-end="924" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1050">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scan_dir.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scan_dir.py">
+      <file leaf-file-name="Scan_Animation_Zip.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/AnimationTool/Scan_Animation_Zip.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1485">
+            <state line="167" column="50" selection-start="5986" selection-end="5986" vertical-scroll-proportion="0.0" vertical-offset="2505" max-vertical-offset="3015">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scan_map_dir.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scan_map_dir.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="870">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scan_sound.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scan_sound.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="10" selection-start="105" selection-end="105" vertical-scroll-proportion="0.13157895" vertical-offset="30" max-vertical-offset="1725">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="map_scan.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/map_scan.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="19" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4875">
-              <folding>
-                <element signature="e#17#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="md5sum.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/md5sum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -130,32 +101,74 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/scan_sound.py" />
         <option value="$PROJECT_DIR$/rename_directory.py" />
         <option value="$PROJECT_DIR$/errorcode_scan.py" />
         <option value="$PROJECT_DIR$/FileWriter.py" />
         <option value="$PROJECT_DIR$/flash_rename.py" />
         <option value="$PROJECT_DIR$/scan_map_dir.py" />
+        <option value="$PROJECT_DIR$/../../firefly/setup.py" />
+        <option value="$PROJECT_DIR$/../../firefly/paokuServer/config.json" />
+        <option value="$PROJECT_DIR$/../../firefly/paokuServer/app/apptest.py" />
+        <option value="$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/config.json" />
+        <option value="$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/app/game/gatenodeapp/friend.py" />
+        <option value="$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/app/gate/localservice/login.py" />
+        <option value="$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/app/game/gatenodeapp/roleinfo.py" />
+        <option value="$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/tool/clienttest.py" />
+        <option value="$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/memcached.sh" />
+        <option value="$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/startmaster.py" />
+        <option value="$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/app/dbfront/dataloader.py" />
+        <option value="$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/Rc4Tool/ScanResourse.py" />
+        <option value="$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/AndroidMkTool/AndroidMkUtil.py" />
+        <option value="$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/TexturePackerTool/ScanPngPacker.py" />
+        <option value="$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/AnimationTool/Scan_Animation_Zip.py" />
+        <option value="$PROJECT_DIR$/../Scan_Anim/Scan_Animation_Zip.py" />
+        <option value="$PROJECT_DIR$/../DeleteSvnInfo/DeleteSvn.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="96" />
-    <option name="y" value="24" />
+    <option name="y" value="22" />
     <option name="width" value="1280" />
     <option name="height" value="729" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyPackageRequirementsInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -188,7 +201,49 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="PythonTools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rc4Tool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="PythonUtils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonTools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonUtils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonTools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Scan_Anim" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonUtils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonTools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DeleteSvnInfo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -201,20 +256,281 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Python/pyCharmPro" />
-    <property name="options.searchVisible" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other" />
+    <property name="FullScreen" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings />
     </option>
   </component>
-  <component name="RunManager">
-    <list size="0" />
+  <component name="RunManager" selected="Python.DeleteSvn">
+    <configuration default="false" name="startmaster" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="anhei server 1.4" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/startmaster.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AndroidMkUtil" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/AndroidMkTool" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="other" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/AndroidMkTool/AndroidMkUtil.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ScanResourse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/Rc4Tool" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="other" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/Rc4Tool/ScanResourse.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ScanPngPacker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/TexturePackerTool" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="other" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/TexturePackerTool/ScanPngPacker.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonUtils" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonUtils" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonUtils" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonUtils" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonUtils" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonUtils" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonUtils" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DeleteSvn" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../DeleteSvnInfo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonTools" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../DeleteSvnInfo/DeleteSvn.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.DeleteSvn" />
+      <item index="1" class="java.lang.String" itemvalue="Python.startmaster" />
+      <item index="2" class="java.lang.String" itemvalue="Python.AndroidMkUtil" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ScanResourse" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ScanPngPacker" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.AndroidMkUtil" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ScanPngPacker" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ScanResourse" />
+        <item index="3" class="java.lang.String" itemvalue="Python.startmaster" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true" SSL_PROTOCOLS="sslv3">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
     <option name="mySSHConnectionTimeout" value="30000" />
@@ -229,7 +545,27 @@
     <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
     <option name="FORCE_UPDATE" value="false" />
     <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="true">$USER_HOME$/.subversion</configuration>
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -240,28 +576,33 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="96" y="24" width="1280" height="729" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1280" height="729" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18203124" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23263328" sideWeight="0.54668164" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.48194662" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30933633" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -272,109 +613,259 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/list.java">
+    <entry file="file://$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/AndroidMkTool/AndroidMkUtil.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606">
+        <state line="53" column="0" selection-start="1601" selection-end="1601" vertical-scroll-proportion="0.0" vertical-offset="795" max-vertical-offset="1290">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/TexturePackerTool/ScanPngPacker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="924" selection-end="924" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/AnimationTool/Scan_Animation_Zip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="167" column="50" selection-start="5986" selection-end="5986" vertical-scroll-proportion="0.0" vertical-offset="2505" max-vertical-offset="3015">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/AndroidMkTool/AndroidMkUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1290">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/TexturePackerTool/ScanPngPacker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="924" selection-end="924" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/AnimationTool/Scan_Animation_Zip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="167" column="50" selection-start="5986" selection-end="5986" vertical-scroll-proportion="0.0" vertical-offset="2505" max-vertical-offset="3015">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/AndroidMkTool/AndroidMkUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="139" selection-start="157" selection-end="266" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1320">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/Rc4Tool/ScanResourse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="27" selection-start="596" selection-end="596" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="1500" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/collect_pics.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="12" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1860">
-          <folding />
-        </state>
+        <state line="16" column="24" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1860" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/errorcode_scan.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1845">
-          <folding>
-            <element signature="e#48#63#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1815" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FileWriter.py">
+    <entry file="file://$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/startmaster.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1530">
-          <folding>
-            <element signature="e#33#46#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="14" column="4" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="300" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flash_rename.py">
+    <entry file="file://$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/memcached.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="21" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1230">
-          <folding />
-        </state>
+        <state line="1" column="0" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="105" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/map_scan.py">
+    <entry file="file://$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/app/dbfront/dataloader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="19" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4875">
-          <folding>
-            <element signature="e#17#50#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="18" column="24" selection-start="378" selection-end="395" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="630" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/md5sum.py">
+    <entry file="file://$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/app/share/mcharacter/mcharacter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="583">
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="13" column="11" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/app/dbfrontserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="23" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="210" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/tool/clienttest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="0" selection-start="1206" selection-end="1206" vertical-scroll-proportion="0.0" vertical-offset="795" max-vertical-offset="975" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/app/gate/localservice/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="60" selection-start="778" selection-end="778" vertical-scroll-proportion="0.21602787" vertical-offset="234" max-vertical-offset="1095" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/app/game/gatenodeapp/roleinfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="7" selection-start="278" selection-end="278" vertical-scroll-proportion="0.22648084" vertical-offset="0" max-vertical-offset="861" />
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/firefly-1.3.3dev-py2.7.egg/firefly/master/master.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="23" selection-start="583" selection-end="583" vertical-scroll-proportion="0.31358886" vertical-offset="150" max-vertical-offset="1560" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="861" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/tool/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="623" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/memcached.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="45" selection-end="45" vertical-scroll-proportion="0.016835017" vertical-offset="0" max-vertical-offset="891" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/app/share/mcharacter/mcharacter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="43" selection-start="695" selection-end="695" vertical-scroll-proportion="0.47138047" vertical-offset="0" max-vertical-offset="891" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/app/dbfront/dataloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="250" selection-end="250" vertical-scroll-proportion="0.16835018" vertical-offset="0" max-vertical-offset="891" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="110" selection-start="167" selection-end="167" vertical-scroll-proportion="0.051903114" vertical-offset="0" max-vertical-offset="867" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Mtest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="11" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="885">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="891" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flash_rename.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="35" selection-start="260" selection-end="260" vertical-scroll-proportion="0.16835018" vertical-offset="0" max-vertical-offset="1230" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/appmain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="24" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/startmaster.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="21" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/tool/clienttest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="45" selection-start="72" selection-end="72" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="975" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/app/netserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/app/gateserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/app/gameserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/anheisg/app/dbfrontserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="38" selection-end="38" vertical-scroll-proportion="0.05050505" vertical-offset="0" max-vertical-offset="891" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collect_pics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="24" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1755" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/errorcode_scan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.32019705" vertical-offset="195" max-vertical-offset="1815" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/Rc4Tool/ScanResourse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="13" selection-start="1187" selection-end="1187" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="1500" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/TextureArrage/Scan_Texture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="19" selection-start="218" selection-end="218" vertical-scroll-proportion="0.16167665" vertical-offset="69" max-vertical-offset="570" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/AnimationTool/Scan_Animation_Zip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="167" column="50" selection-start="5986" selection-end="5986" vertical-scroll-proportion="0.0" vertical-offset="2153" max-vertical-offset="2865">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/AndroidMkTool/AndroidMkUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="41" selection-start="1672" selection-end="1672" vertical-scroll-proportion="0.22986577" vertical-offset="658" max-vertical-offset="1290">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../rc4Tool/ScanResourse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="62" selection-start="2345" selection-end="3159" vertical-scroll-proportion="0.0" vertical-offset="516" max-vertical-offset="1125">
           <folding>
-            <element signature="e#38#65#0" expanded="true" />
+            <element signature="e#39#48#0" expanded="true" />
+            <element signature="e#187#1510#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/packs_cleaner.py">
+    <entry file="file://$PROJECT_DIR$/../Scan_Anim/Scan_Animation_Zip.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
+        <state line="58" column="31" selection-start="1794" selection-end="1801" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="2505">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/TexturePackerTool/ScanPngPacker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="924" selection-end="924" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="1050">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DeleteSvnInfo/DeleteSvn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="34" selection-start="820" selection-end="820" vertical-scroll-proportion="0.37634408" vertical-offset="465" max-vertical-offset="960">
           <folding>
-            <element signature="e#90#105#0" expanded="true" />
+            <element signature="e#39#48#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rename_directory.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1230">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scan_dir.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1485">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scan_map_dir.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="870">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scan_sound.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="10" selection-start="105" selection-end="105" vertical-scroll-proportion="0.13157895" vertical-offset="30" max-vertical-offset="1725">
-          <folding />
         </state>
       </provider>
     </entry>

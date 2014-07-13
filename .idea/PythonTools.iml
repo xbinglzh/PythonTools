@@ -4,11 +4,6 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 2.7.5 (/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="PythonTools" />
-    <orderEntry type="module" module-name="firefly" />
-    <orderEntry type="module" module-name="anhei server 1.4" />
-    <orderEntry type="module" module-name="fengyanOL - v1.7.0" />
-    <orderEntry type="module" module-name="other" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="myDocStringFormat" value="Plain" />

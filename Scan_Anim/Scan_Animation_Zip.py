@@ -67,7 +67,7 @@ class ZipReName :
                 
             cmd_1 = 'TexturePacker --format cocos2d --data  %(savePlistName)s ' % {'savePlistName' : savePlistName}
             cmd_2 = '--sheet %(savePngName)s --opt RGBA8888 --max-width 8192 --max-height 8192 ' % {'savePngName' : savePngName}
-            cmd_3 = '--border-padding 0 --shape-padding 0 --size-constraints NPOT --premultiply-alpha '
+            cmd_3 = '--border-padding 0 --shape-padding 0 --size-constraints AnySize --premultiply-alpha '
             cmd_4 = scanPngRes+'*.png'
                              
             commandStr = cmd_1+cmd_2+cmd_3+cmd_4
