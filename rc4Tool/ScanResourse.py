@@ -12,7 +12,7 @@ class ScanResourse:
     def __init__(self):
         self.__rc4PlistUtil = Rc4Plist()
         self.__rc4PngUtil = Rc4Png()
-        self.__rootBase = "/Users/user/Documents/Develop/PythonTools/Python_sacn_Tool/9/"
+        self.__rootBase = "/Users/user/Documents/Develop/MetalWarXianxia/projects/cocos2d-2.1rc0-x-2.1.2/my1net/Cpp/XianxiaCrossPlatform/"
         self.__plainDir = "Resources/"
         self.__encryptDir = "Resources_rc4/"
 	

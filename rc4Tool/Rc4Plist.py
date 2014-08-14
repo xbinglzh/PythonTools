@@ -26,7 +26,7 @@ class Rc4Plist:
 
         # print str(plist_str).decode('utf-8').encode('utf-8')
 
-        unicode(plist_str, "utf-8")
+        # unicode(plist_str, "utf-8")
 
 
         return plist_str
