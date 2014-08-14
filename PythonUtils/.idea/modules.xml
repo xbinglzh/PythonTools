@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../.idea/PythonTools.iml" filepath="$PROJECT_DIR$/../.idea/PythonTools.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PythonUtils.iml" filepath="$PROJECT_DIR$/.idea/PythonUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/.idea/anhei server 1.4.iml" filepath="$PROJECT_DIR$/../../../GameServer/DiabloWorld-server-V1.4/anhei server 1.4/.idea/anhei server 1.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../GameServer/server/fengyanOL - v1.7.0/.idea/fengyanOL - v1.7.0.iml" filepath="$PROJECT_DIR$/../../../GameServer/server/fengyanOL - v1.7.0/.idea/fengyanOL - v1.7.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../firefly/.idea/firefly.iml" filepath="$PROJECT_DIR$/../../firefly/.idea/firefly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/.idea/other.iml" filepath="$PROJECT_DIR$/../../../xianxiaPro/MetalWarXianxia/other/.idea/other.iml" />
     </modules>
   </component>
 </project>
